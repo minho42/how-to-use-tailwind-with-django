@@ -9,7 +9,7 @@ $ mkdir jstoolchain
 
 $ cd jstoolchain
 
-$ npm init
+$ npm init -y
 
 $ npm install tailwind postcss-cli autoprefixer
 
