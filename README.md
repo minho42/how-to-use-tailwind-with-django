@@ -11,7 +11,7 @@ $ cd jstoolchain
 
 $ npm init -y
 
-$ npm install tailwind postcss-cli autoprefixer
+$ npm install tailwindcss postcss-cli autoprefixer
 
 $ npx tailwind init
 
